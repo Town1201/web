@@ -1,0 +1,24 @@
+
+.form2 input{
+	display: none;
+}
+
+.form2 select{
+	display: none;
+}
+
+.form3 input{
+	display: none;
+}
+
+.form3 select{
+	display: none;
+}
+
+.form1 label{
+	display: none;
+}
+
+#photo{
+	display: none;
+}

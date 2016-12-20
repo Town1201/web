@@ -1,0 +1,14 @@
+﻿.backIndexContainer{
+    width:1000px;
+    margin:auto;
+}
+
+.backIndexleft{
+    width:150px;
+    height:500px;
+}
+
+.backIndexRight{
+    width:850px;
+    margin:auto;
+}

@@ -1,0 +1,21 @@
+
+
+a{
+    text-decoration: none;
+}
+
+.a_result{
+    background-color: rgba(195,187,184,0.65);
+    margin: 3em auto;
+    padding: 1em;
+    text-align: center;
+    font-size: 2em;
+    max-width: 37.5em;
+    color: #21C116;
+    height: 3em;
+    border: none;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 2px 4px 18px red;
+    text-shadow: 5px 6px 6px #C5B11D;
+}
